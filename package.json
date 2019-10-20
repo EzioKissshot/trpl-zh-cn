@@ -5,7 +5,8 @@
   "main": "ferris.js",
   "scripts": {
     "build": "vuepress build ./src",
-    "server": "hs ./src/.vuepress/dist"
+    "server": "hs ./src/.vuepress/dist",
+    "dev": "vuepress dev ./src"
   },
   "repository": {
     "type": "git",
