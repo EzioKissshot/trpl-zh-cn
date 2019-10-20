@@ -1,4 +1,4 @@
-# Rust 程序设计语言
+# Rust 程序设计语言（第二版 & 2018 edition）简体中文版
 
 [前言](foreword.md)
 [介绍](ch00-00-introduction.md)
