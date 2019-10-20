@@ -1,6 +1,5 @@
 {
     "routes": [
-        { "src": "/", "dest": "/src/.vuepress/dist/SUMMARY.html"},
-        { "src": "/(.*)", "dest": "/src/.vuepress/dist/$1" }
+        { "src": "/", "dest": "/SUMMARY.html"}
     ]
 }

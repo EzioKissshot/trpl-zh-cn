@@ -3,5 +3,6 @@ mdbook/
 book/
 
 .DS_Store
-.vuepress
-node_modules
+.vuepress/dist/
+node_modules/
+public/
