@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KaiserY/trpl-zh-cn/issues"
   },
-  "homepage": "https://github.com/KaiserY/trpl-zh-cn#readme"
+  "homepage": "https://github.com/KaiserY/trpl-zh-cn#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
 }

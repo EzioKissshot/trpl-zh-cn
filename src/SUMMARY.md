@@ -130,3 +130,5 @@
     - [E - 版本](appendix-05-editions.md)
     - [F - 本书译本](appendix-06-translation.md)
     - [G - Rust 是如何开发的与 “Nightly Rust”](appendix-07-nightly-rust.md)
+
+本翻译来自于[Rust 程序设计语言（第二版 & 2018 edition）](https://github.com/KaiserY/trpl-zh-cn)，本网站只做网页托管
