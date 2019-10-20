@@ -1,0 +1,20 @@
+{
+  "name": "trpl-zh-cn",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/KaiserY/trpl-zh-cn.svg?branch=master)](https://travis-ci.org/KaiserY/trpl-zh-cn)",
+  "main": "ferris.js",
+  "scripts": {
+    "build": "vuepress build ./src",
+    "server": "hs ./src/.vuepress/dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiserY/trpl-zh-cn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiserY/trpl-zh-cn/issues"
+  },
+  "homepage": "https://github.com/KaiserY/trpl-zh-cn#readme"
+}
