@@ -4,7 +4,7 @@
   "description": "[![Build Status](https://travis-ci.org/KaiserY/trpl-zh-cn.svg?branch=master)](https://travis-ci.org/KaiserY/trpl-zh-cn)",
   "main": "ferris.js",
   "scripts": {
-    "build": "vuepress build ./src",
+    "build": "vuepress build ./src && cp -rf ./src/img ./public/img",
     "server": "hs ./src/.vuepress/dist",
     "dev": "vuepress dev ./src"
   },
