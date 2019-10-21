@@ -12,7 +12,6 @@ module.exports = {
                     children: [
                         'foreword.md',
                         'ch00-00-introduction.md',
-                        'index.md',
                     ]
                 },
                 {
