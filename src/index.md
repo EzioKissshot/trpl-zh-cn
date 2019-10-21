@@ -2,7 +2,7 @@
 
 - [前言](foreword.md)
 - [介绍](ch00-00-introduction.md)
-- [目录](catalog.md)
+- [目录](index.md)
 
 ## 入门指南
 

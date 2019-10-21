@@ -12,7 +12,7 @@ module.exports = {
                     children: [
                         'foreword.md',
                         'ch00-00-introduction.md',
-                        'catalog.md',
+                        'index.md',
                     ]
                 },
                 {
@@ -227,6 +227,10 @@ module.exports = {
         },
         search: false,
         searchMaxSuggestions: 10,
-        smoothScroll: true
+        smoothScroll: true,
+        algolia: {
+            apiKey: '<API_KEY>',
+            indexName: '<INDEX_NAME>'
+        }
     }
 }
